@@ -1,6 +1,6 @@
 # John Trehearn
 
-I am studing Full Stack Web Developer program at Business College Helsinki
+I am studing Full Stack Web Developer program at Business College Helsinki.
 
 Latest projects
 
